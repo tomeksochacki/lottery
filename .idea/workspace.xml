@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27eb74db-a99e-41a7-9974-ebe7aba4b514" name="Default Changelist" comment="" />
+    <list default="true" id="27eb74db-a99e-41a7-9974-ebe7aba4b514" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ExampleMy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NekstTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NextExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Help.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/HelpFull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/NextClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/TestNext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +24,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kgbTGjCoeVrtwgJ9UMctzeS3Cm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,9 +41,16 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.Main2">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Main" />
+  <component name="RunManager" selected="Application.HelpFull">
+    <configuration name="ExampleMy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExampleMy" />
+      <module name="untitled42" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelpFull" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.HelpFull" />
       <module name="untitled42" />
       <extension name="coverage">
         <pattern>
@@ -41,21 +62,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Main2" />
+    <configuration name="NekstTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NekstTwo" />
       <module name="untitled42" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="My" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.My" />
+    <configuration name="NextExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NextExample" />
+      <module name="untitled42" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NextLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.NextLoop" />
       <module name="untitled42" />
       <extension name="coverage">
         <pattern>
@@ -69,9 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.My" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.HelpFull" />
+        <item itemvalue="Application.ExampleMy" />
+        <item itemvalue="Application.NekstTwo" />
+        <item itemvalue="Application.NextExample" />
+        <item itemvalue="Application.NextLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -93,49 +117,74 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="605" y="140" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1606292287372" />
-    <state width="1557" height="276" key="GridCell.Tab.0.bottom" timestamp="1606401206815">
+    <state width="1557" height="411" key="GridCell.Tab.0.bottom" timestamp="1610019630802">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="276" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1606401206815" />
-    <state width="1557" height="276" key="GridCell.Tab.0.center" timestamp="1606401206814">
+    <state width="1557" height="411" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1610019630802" />
+    <state width="1557" height="411" key="GridCell.Tab.0.center" timestamp="1610019630802">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="276" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1606401206814" />
-    <state width="1557" height="276" key="GridCell.Tab.0.left" timestamp="1606401206814">
+    <state width="1557" height="411" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1610019630802" />
+    <state width="1557" height="411" key="GridCell.Tab.0.left" timestamp="1610019630802">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="276" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1606401206814" />
-    <state width="1557" height="276" key="GridCell.Tab.0.right" timestamp="1606401206814">
+    <state width="1557" height="411" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1610019630802" />
+    <state width="1557" height="411" key="GridCell.Tab.0.right" timestamp="1610019630802">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="276" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1606401206814" />
-    <state width="1557" height="276" key="GridCell.Tab.1.bottom" timestamp="1606401206815">
+    <state width="1557" height="411" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1610019630802" />
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom" timestamp="1609936967458">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1606401206815" />
-    <state width="1557" height="276" key="GridCell.Tab.1.center" timestamp="1606401206815">
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1609936967458" />
+    <state width="1557" height="276" key="GridCell.Tab.1.center" timestamp="1609936967458">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="276" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1606401206815" />
-    <state width="1557" height="276" key="GridCell.Tab.1.left" timestamp="1606401206815">
+    <state width="1557" height="276" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1609936967458" />
+    <state width="1557" height="276" key="GridCell.Tab.1.left" timestamp="1609936967458">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="276" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1606401206815" />
-    <state width="1557" height="276" key="GridCell.Tab.1.right" timestamp="1606401206815">
+    <state width="1557" height="276" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1609936967458" />
+    <state width="1557" height="276" key="GridCell.Tab.1.right" timestamp="1609936967458">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1606401206815" />
-    <state x="280" y="5" key="SettingsEditor" timestamp="1606213668519">
+    <state width="1557" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1609936967458" />
+    <state x="280" y="5" key="SettingsEditor" timestamp="1609241740996">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="280" y="5" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1606213668519" />
-    <state x="496" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1606734820553">
+    <state x="280" y="5" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1609241740996" />
+    <state x="496" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1610009205588">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="496" y="255" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1606734820553" />
-    <state x="182" y="51" key="new project wizard" timestamp="1606734841048">
+    <state x="496" y="255" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1610009205588" />
+    <state x="182" y="51" key="new project wizard" timestamp="1607375845894">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="182" y="51" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1606734841048" />
+    <state x="182" y="51" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1607375845894" />
+    <state x="456" y="195" key="run.anything.popup" timestamp="1609888413478">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1609888413478" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/TestNext.java</url>
+          <line>135</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NekstTwo.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExampleMy.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
